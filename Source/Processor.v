@@ -3,7 +3,7 @@
 module processor
 (
 	input  rst,
-    input  clk,
+	input  clk,
     input  start,
 	input  op,
     input  [7:0] x,
