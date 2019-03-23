@@ -2,8 +2,8 @@
 
 module Datapath
 (
-	input rst,
-	input clk,
+   input rst,
+   input clk,
    input [7:0] x,
    input [7:0] y,
    input x_sel,
