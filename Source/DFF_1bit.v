@@ -2,7 +2,7 @@
 
 module DFF_1bit
 (
-	input  rst,
+    input  rst,
     input  clk,
     input  load,
     input  d,
