@@ -3,9 +3,9 @@
 module Controller
 (
     input  rst,
-	 input  clk,
-	 input  op,
-	 input  start,
+    input  clk,
+    input  op,
+    input  start,
     input  x_gt_y,
     input  x_eq_y,
     input  x_ls_y,
