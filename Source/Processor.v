@@ -4,12 +4,12 @@ module processor
 (
 	input  rst,
 	input  clk,
-    input  start,
+        input  start,
 	input  op,
-    input  [7:0] x,
-    input  [7:0] y,
-    output [7:0] result,
-    output done,
+        input  [7:0] x,
+        input  [7:0] y,
+        output [7:0] result,
+        output done,
 	output [6:0] res,
 	output [6:0] x_seg,
 	output [6:0] y_seg
