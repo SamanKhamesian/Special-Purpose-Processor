@@ -21,7 +21,7 @@
 *.sopc_builder
 *.summary
 *.tcl
-*.txt # Explicitly add any text files used
+*.txt
 *~
 *example*
 *sopc_*
