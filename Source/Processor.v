@@ -1,33 +1,15 @@
 `timescale 1ns / 1ps
-//////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer: Ali Mashayekh & Saman Khamesian
-// 
-// Create Date:    16:22:57 01/13/2017 
-// Design Name: 
-// Module Name:    Processor 
-// Project Name: 
-// Target Devices: 
-// Tool versions: 
-// Description: 
-//
-// Dependencies: 
-//
-// Revision: 
-// Revision 0.01 - File Created
-// Additional Comments: 
-//
-//////////////////////////////////////////////////////////////////////////////////
+
 module processor
 (
 	input  rst,
-   input  clk,
-   input  start,
+    input  clk,
+    input  start,
 	input  op,
-   input  [7:0] x,
-   input  [7:0] y,
-   output [7:0] result,
-   output done,
+    input  [7:0] x,
+    input  [7:0] y,
+    output [7:0] result,
+    output done,
 	output [6:0] res,
 	output [6:0] x_seg,
 	output [6:0] y_seg
