@@ -16,7 +16,9 @@ For this processor, two main modules must have designed.
 #### State Machine
 In the controller, the next state is specified based on comparator outputs. Three states are avialable for our state machine.
 
-![State Machine](Images/State_Machine_Viewer.png)
+<p align="center">
+    <img src="Images/State_Machine_Viewer.png">
+</p>
 #
 
 #### Testbench
