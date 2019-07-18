@@ -1,4 +1,4 @@
-# Project
+# Special-Purpose-Processor
 
 ### Abstract
 The main objective of this project was to build a special-purpose processor that can calculate greatest common multiple (GCM) and least common factor (LCM) based on input operation code (opcode). At first I design a datapath and controller for this processor and synchronized them with system clock that implemented using Verilog HDL language.
