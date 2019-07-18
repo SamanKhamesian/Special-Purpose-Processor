@@ -19,7 +19,7 @@ In the controller, the next state is specified based on comparator outputs. Thre
 <p align="center">
     <img src="Images/State_Machine_Viewer.png">
 </p>
-#
+
 
 #### Testbench
 The result of the system for calculating GCM and LCM for 6 and 4 inputs is shown below.
